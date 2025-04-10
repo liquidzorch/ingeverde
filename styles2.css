@@ -134,7 +134,6 @@
   justify-content: space-between;
   align-items: center;
   background-color: var(--nav);
-  border: red 2px solid;
 }
 
 ul{
