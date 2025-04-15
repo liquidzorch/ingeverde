@@ -40,3 +40,6 @@ function ready(){
         })
 }
 
+document.getElementById("hero-button-id").addEventListener("click", function(){
+    alert("hello");
+})
